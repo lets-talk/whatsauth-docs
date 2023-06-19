@@ -1,5 +1,5 @@
 ---
-title: Home
+title: WhatsAuth Docs
 layout: home
 ---
 
