@@ -2,12 +2,9 @@
 layout: default
 title: How to use WhatsApp as a login provider in your Web or App
 nav_order: 2
-has_children: true
+parent: Guides
 ---
 If you want to enable login with WhatsApp in your site or app you can do it by following this simple guide. We suggest you refresh your understanding of the [general usage](https://whatsauth.freshdesk.com/support/solutions/articles/151000093135-how-it-works) flow to get the most out of this guide.
-
-  
-
 
 Requirements
 ------------
@@ -37,7 +34,7 @@ The clever part of this code you are requesting is that you will pass the sessio
 
   
 
-https://mycompany.com/webhook/whatsauth?session\_id=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b
+https://mycompany.com/webhook/whatsauth?<mark>session\_id=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b</mark>
 
   
 
