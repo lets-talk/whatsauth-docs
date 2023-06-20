@@ -1,20 +1,21 @@
 ---
 layout: default
-title: How to use WhatsApp as a login provider in your Web or App
-nav_order: 2
+title: WhatsApp Login
 parent: Guides
 ---
+# How to use WhatsApp as a login provider in your Web or App
 If you want to enable login with WhatsApp in your site or app you can do it by following this simple guide. We suggest you refresh your understanding of the [general usage](https://whatsauth.freshdesk.com/support/solutions/articles/151000093135-how-it-works) flow to get the most out of this guide.
 
-Requirements
-------------
+{: .highlight }
+This is just one option to implement the WhatsApp Login with WhatsAuth. There are several other vays to accomplish this purpose. Please don't hesitate in contacting support if you have any doubt.
+
+## Requirements
 
 1.  A Valid API Token from a [WhatsAuth App](https://whatsauth.freshdesk.com/support/solutions/articles/151000092660-how-to-create-your-first-app-in-whatsauth-and-test-it). For instance "SUPERSECRETTOKEN"
 2.  A user session identifier within your platform. It could be a uuid "ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b"
 3.  A backend endpoint to receive POST requests. Let's assume you have enabled "https://mycompany.com/webhooks/whatsauth"
 
-Step-by-step Guide
-------------------
+## Step-by-step Guide
 
 ### Get a Unique Code for a User
 

@@ -1,6 +1,7 @@
 ---
 title: Welcome to WhatsAuth Docs
 layout: home
+nav_order: 1
 ---
 Welcome,
 
