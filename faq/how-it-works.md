@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How It Works
+parent: Faq
 ---
 # How it works
 WhatsAuth provides a simple and reliable way to validate mobile phone numbers and authorize several kinds of transactions such as OTP, 2-Factor Authentication, Delivery proof, etc.
