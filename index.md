@@ -16,7 +16,7 @@ We're very excited to support you as a partner in your business. We're committed
 In order to  start using WhatsAuth you need to:
 
 1.  [Sign up](https://app.whatsauth.com)
-2.  [Create an App](../guides/create-app.html)
+2.  [Create an App](/guides/create-app.html)
 3.  Integrate your platform with our API.
 4.  Acquire credits as you need.
 
