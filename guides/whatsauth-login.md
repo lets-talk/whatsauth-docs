@@ -31,11 +31,11 @@ https://whatsauth.me/api/v1/verification\_code
 
 This request should be authenticated using your API token a _Bearer_ in the header "Authorization". So far, so simple.
 
-The clever part of this code you are requesting is that you will pass the session identifier as a parameter of the callback URL as follows:
+The clever part, of this code you are requesting, is that you will pass the session identifier as a parameter of the callback URL as follows:
 
   
 
-https://mycompany.com/webhook/whatsauth?<mark>session\_id=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b</mark>
+https://mycompany.com/webhook/whatsauth?<mark>session_id=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b</mark>
 
   
 

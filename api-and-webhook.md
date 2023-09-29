@@ -93,7 +93,8 @@ If the request is properly formed and authenticated you'll receive a response wi
 ## Webhook
 
 In order to receive the updated status of the verification process you will need to implement the webhook which is a URL under HTTPS protocol and POST method. There you will receive the following information in JSON format:
-````json
+
+```json
     {
        "id": "123e4567-e89b-12d3-a456-426614174000",
        "status": "validated",
