@@ -10,7 +10,7 @@ Within the Billing section, you can check your current balance in real-time. You
 
 Select the pack more suitable for your business needs.
 
-![Credits Packs](../assets/images/charge-pack.png)
+![Credits Packs]({% link assets/images/charge-pack.png %})
 **Credits Packs**
 {: .text-center}
 
@@ -20,7 +20,7 @@ On this screen, you can set your location to adjust currency, payment method, an
 
 You can also apply a coupon if you have one.
 
-![Checkpout Option](../assets/images/checkout-options.png)
+![Checkpout Option]({% link assets/images/checkout-options.png %})
 **Checkpout Option**
 {: .text-center}
 
