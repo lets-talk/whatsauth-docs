@@ -57,14 +57,17 @@ You can also specify default values for each parameter at the application level 
 The following examples illustrate which are the expression of the parameters
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/151020508950/original/UKCuSOcA_wb9cInIaFe118ouWuzmiliWtA.png?1683919585)
+{: .text-center }
 **Verification success message**
 {: .text-center }
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/151020509006/original/Wbow66G4hhh9u6be01W0tPbZ3m1SKaBrtQ.png?1683919610)
+{: .text-center }
 **Expiration message**
 {: .text-center }
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/151020509030/original/UfMaH_Z7kjP2r9hQ585qtek0wqrPHTLz_A.png?1683919630)
+{: .text-center }
 **Failure message**
 {: .text-center }
 

@@ -17,6 +17,28 @@ This is just one option to implement the WhatsApp Login with WhatsAuth. There ar
 
 ## Step-by-step Guide
 
+### Sequence Diagram
+
+```mermaid
+    sequenceDiagram
+        actor User
+        participant ClientApp
+        participant ServerApp
+        participant WhatsAuth
+        participant WhatsApp
+        User->>ClientApp: Load Login View
+        ClientApp->>ServerApp: Request Load Data for session
+        ServerApp->>WhatsAuth: Request Verification Code for session
+        WhatsAuth->>ServerApp: Respond with code
+        ServerApp->>ClientApp: Respond with Load Data including code
+        ClientApp->>User: Render Login View with WhatsAuth Login Button
+        User->>WhatsApp: Send preset message
+        WhatsApp->>WhatsAuth: Sends received message
+        WhatsAuth->>ServerApp: Send User Data
+        ServerApp->>ClientApp: Send signal of phone number validated
+        ClientApp->>User: Shows next step in normal App flow
+```
+
 ### Get a Unique Code for a User
 
 Every time a user gets to arrive at your login view you need to ask for a unique verification code in WhatsAuth. This could be done by the server or the client. 

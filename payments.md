@@ -20,8 +20,8 @@ On this screen, you can set your location to adjust currency, payment method, an
 
 You can also apply a coupon if you have one.
 
-![Checkpout Option]({% link assets/images/checkout-options.png %})
-**Checkpout Option**
+![Checkout Option]({% link assets/images/checkout-options.png %})
+**Checkout Option**
 {: .text-center}
 
 Finally, you'll receive an email with your purchase information.
