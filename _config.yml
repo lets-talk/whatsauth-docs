@@ -37,3 +37,10 @@ mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "10.4.0"
+  sequenceConfig:
+    diagramMarginX: 50
+    diagramMarginY: 10
+    boxTextMargin: 5
+    noteMargin: 10
+    messageMargin: 35
+    mirrorActors: true
