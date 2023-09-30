@@ -137,21 +137,21 @@ It is important that your webhook responds to the platform with something pleasa
 You are ready to generate your first verification code by passing through some configuration.
 
 
-
+```bash
 curl --location --request GET 'https://whatsauth.me/api/v1/verification_code?callback_url=https://453db573fa5d01ad3b709642c090c202.m.pipedream.net&expiration_message=Expired&failure_message=Failed to communicate with backend service.&response_message=Validated&expires_at=5&link_message=Verify my phone number with the following code:' \
 
 --header 'Authorization: Bearer n4zeTOPs3lPp7pjc4yXIeQBt97OYAKWj'
-
+```
 
 If everything goes well the platform will respond with something similar to the following.
 
 
-
+```json
 {
    "code": "3220ce4f11",
    "link": "https://wa.me/+56943426553?text=Verify%20my%20phone%20number%20with%20the%20following%20code:%0A%0A%60%60%60--------------%0A%7C%203220ce4f11%20%7C%0A--------------%60%60%60"
 }
-
+```
 
 Let’s go to the validations section and see what we have.
 
