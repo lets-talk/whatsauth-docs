@@ -31,3 +31,7 @@ And you will start receiving authenticated webhook again
 
 {: .highlight }
 Architenture Tip: keep the `apiKey` as variable in your code to be able to change it rapidly and easy when required.
+
+{: .note }
+Remeber that query string parameters can be used for several purposes and can be added using `&` for example it's possible to send a `sessionId` and an `apiKey` like this:
+https://mycompany.com/webhook/whatsauth?sessionId=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b&apiKey=MY-SUPER-SECRET-KEY

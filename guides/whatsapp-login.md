@@ -57,7 +57,7 @@ The clever part, of this code you are requesting, is that you will pass the sess
 
   
 
-https://mycompany.com/webhook/whatsauth?<mark>session_id=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b</mark>
+https://mycompany.com/webhook/whatsauth?<mark>sessionId=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b</mark>
 
   
 
@@ -69,7 +69,7 @@ In the end, your request would be something like this:
 ```bash
     curl -G \
     --location 'https://whatsauth.me/api/v1/verification_code' \
-    --data-urlencode 'callback_url=https://mycompany.com/webhook/whatsauth?session_id=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b' \
+    --data-urlencode 'callback_url=https://mycompany.com/webhook/whatsauth?sessionId=ace9b0d1-bdaa-4a56-8b28-94ad8d6d0f6b' \
     --header 'Authorization: Bearer SUPERSECRETTOKEN'
 ```
 
