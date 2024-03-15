@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Authentication
 
-The API requests are authenticated using a Bearer token in the Authorization Header. You can get the token from an application in your account ([learn more](https://whatsauth.freshdesk.com/support/solutions/articles/151000092660-how-to-create-your-first-app-in-whatsauth-and-test-it)).
+The API requests are authenticated using a Bearer token in the Authorization Header. You can get the token from an application in your account ([learn more]({% link guides/create-app.md %})).
 
   
 
