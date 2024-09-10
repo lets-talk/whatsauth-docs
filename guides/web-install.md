@@ -49,7 +49,10 @@ The `init` function accepts an object with the following properties:
 2. When the user clicks on the input field, a popup appears with a QR code (if enabled) and a button to open WhatsApp.
 3. The user scans the QR code or clicks the button to validate their phone number through WhatsApp.
 4. Once validated, the phone number is automatically filled in the input field.
-5. The form submission is prevented if the phone number is not validated.
+5. The form submission is handled by the default behavior.
+
+{: .highlight }
+If you want the phone to be required you simply edit the original form adding the `required` attribute.
 
 ## Example
 
