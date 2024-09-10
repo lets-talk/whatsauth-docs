@@ -52,7 +52,7 @@ The `init` function accepts an object with the following properties:
 5. The form submission is handled by the default behavior.
 
 {: .highlight }
-If you want the phone to be required you simply edit the original form adding the `required` attribute.
+If you want the phone number to be mandatory, simply add the `required` attribute to the original form input.
 
 ## Example
 
