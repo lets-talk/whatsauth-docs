@@ -17,7 +17,7 @@ In order to  start using WhatsAuth you need to:
 
 1.  [Sign up](https://app.whatsauth.com)
 2.  [Create an App]({% link guides/create-app.md %})
-3.  Integrate your platform with our API.
+3.  Integrate your platform with our API or using the [JS script]({% link guides/web-install.md %})
 4.  Acquire [credits]({% link payments.md %}) as you need.
 
 Once you are done with these simple steps you'll be ready for production.
