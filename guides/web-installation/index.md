@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Web Install
+title: Web Installation
+has_children: true
 parent: Guides
 ---
 # WhatsAuth Form Validator
