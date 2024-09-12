@@ -74,3 +74,15 @@ After adding the code to the `<head>` and `<body>` sections, **publish your Webf
 - **Selector Flexibility**: You can target different phone number fields using various selectors (ID, class, etc.), but be sure the selector used in the custom code matches the field ID set in Webflow.
 
 By following these steps, you’ll successfully integrate WhatsAuth Form Validator into your Webflow form, enhancing your site's security with WhatsApp phone number validation.
+
+
+## References
+
+For more information on adding custom code to your Webflow project, you can refer to the official Webflow documentation:
+
+[Webflow University: How to add custom code](https://university.webflow.com/lesson/custom-code-in-the-head-and-body-tags)
+
+This resource provides detailed instructions on how to add custom code to both the `<head>` and `<body>` sections of your Webflow site, which is crucial for implementing the WhatsAuth Form Validator.
+
+
+

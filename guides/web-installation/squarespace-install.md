@@ -84,7 +84,7 @@ By following these steps, you will successfully integrate the WhatsAuth Form Val
 
 For more detailed information on adding custom code to your Squarespace site, please refer to the official Squarespace documentation:
 
-[Squarespace: Injecting Custom Code](https://support.squarespace.com/hc/en-us/articles/206543167-Adding-custom-code-to-your-site)
+[Squarespace: Injecting Custom Code](https://support.squarespace.com/hc/en-us/articles/206543167-Code-blocks)
 
 This guide provides comprehensive instructions on how to use the Code Injection feature in Squarespace to add custom HTML, CSS, and JavaScript to your site, which is essential for implementing the WhatsAuth Form Validator.
 

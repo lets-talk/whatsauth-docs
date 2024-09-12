@@ -97,7 +97,7 @@ By following these steps, you will successfully integrate the WhatsAuth Form Val
 
 For more detailed information on adding custom code to your WordPress theme, please refer to the official WordPress documentation:
 
-[WordPress: Adding Custom Scripts to Your Site](https://wordpress.org/support/article/using-javascript/)
+[WordPress: Adding Custom Scripts to Your Site](https://wordpress.com/go/website-building/how-to-properly-add-javascript-to-wordpress-3-top-methods/)
 
 This guide provides comprehensive instructions on how to properly add JavaScript and custom code to your WordPress site, which is essential for implementing the WhatsAuth Form Validator and customizing your site's functionality.
 

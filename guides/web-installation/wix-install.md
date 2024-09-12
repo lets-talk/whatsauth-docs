@@ -127,3 +127,13 @@ For custom HTML forms, you can add your own CSS inside the **Embed Code** elemen
 - **Styling**: Customize your form's appearance directly within the Wix Editor or through custom CSS in embedded forms.
 
 By following these steps, you'll successfully integrate WhatsAuth Form Validator into your Wix form to validate phone numbers via WhatsApp.
+
+
+## References
+
+For more information on adding custom code to your Wix site, you can refer to the official Wix documentation:
+
+[Wix Help Center: Adding Custom Code to Your Site](https://support.wix.com/en/article/embedding-custom-code-on-your-site)
+
+This resource provides detailed instructions on how to add custom HTML, CSS, and JavaScript to your Wix site, which is crucial for implementing the WhatsAuth Form Validator and customizing your site's functionality.
+

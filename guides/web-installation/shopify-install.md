@@ -124,12 +124,3 @@ This will apply custom styling to the phone input field on your form.
 
 By following these steps, you’ll successfully integrate the WhatsAuth Form Validator into your Shopify store, ensuring secure phone number validation via WhatsApp.
 
-
-## Reference
-
-For more detailed information on adding custom code to your Shopify theme, please refer to the official Shopify documentation:
-
-[Shopify: Edit Theme Code](https://help.shopify.com/en/manual/online-store/themes/theme-structure/sections-and-settings/add-html)
-
-This guide provides comprehensive instructions on how to modify your Shopify theme code, which is essential for implementing the WhatsAuth Form Validator and customizing your store's functionality.
-
