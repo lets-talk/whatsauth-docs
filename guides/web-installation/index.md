@@ -124,3 +124,22 @@ The `inputSelector` option allows you to specify which input field should be enh
 Choose the selector that best fits your HTML structure and ensures you're targeting the correct input field for phone number validation.
 
 This setup will enhance the phone number input field with WhatsAuth validation, improving the quality of submitted data by ensuring that only verified phone numbers are accepted.
+
+
+## Visual Example
+
+To give you a better idea of how the WhatsAuth Form Validator looks when integrated into your web form, here's a visual example:
+
+1. The standard form fields (Name, Email, etc.)
+![Original Form](../../assets/images/web-installation/unverified.png)
+2. The phone number input field enhanced with WhatsAuth validation
+![WhatsAuth Enhanced Form](../../assets/images/web-installation/unobtrusive.png)
+3. The WhatsAuth verification modal that pops up when the user clicks to verify their number
+![WhatsAuth Simple UI](../../assets/images/web-installation/scan.png)
+4. The verified phone number collected within the form
+![Verified Phone Collected](../../assets/images/web-installation/verified-phone-form.png)
+
+This visual representation helps to illustrate how seamlessly the WhatsAuth Form Validator integrates with your existing form, providing a user-friendly interface for phone number verification without disrupting the overall form design.
+
+
+
