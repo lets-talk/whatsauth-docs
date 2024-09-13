@@ -63,6 +63,15 @@ This script ensures that the WhatsAuth Form Validator is loaded on all your page
 - Replace `"YOUR_API_KEY"` with your actual WhatsAuth API key.
 - Ensure that the `inputSelector` matches the ID of your phone number field.
 
+{: .note}
+You can also set both scripts at a page level in the **Page Settings** -> **Custom Code** for before </head> and before </body> tags.
+
+![Webflow Page Settings](../../assets/images/web-installation/webflow-head-script.png)
+
+![Webflow Page Settings](../../assets/images/web-installation/webflow-body-script.png)
+
+
+
 ### 5. **Publish Your Webflow Site**
 
 After adding the code to the `<head>` and `<body>` sections, **publish your Webflow site**. Your form's phone number input will now require WhatsApp-based validation before submission.
