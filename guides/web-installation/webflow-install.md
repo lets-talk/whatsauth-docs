@@ -7,6 +7,16 @@ grand_parent: Guides
 
 # Guide to Using WhatsAuth Form Validator in Webflow
 
+## Video Tutorial
+
+For a visual guide on how to install WhatsAuth in Webflow, watch the following video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kw6dJV0_KLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This video demonstrates the step-by-step process of integrating WhatsAuth into your Webflow project, helping you visualize the installation procedure.
+
+
+
 ## Introduction
 
 This guide will help you integrate the WhatsAuth Form Validator into your Webflow project to validate phone numbers via WhatsApp. You will learn how to configure the phone number input field and set up custom code to enhance your form's functionality.
